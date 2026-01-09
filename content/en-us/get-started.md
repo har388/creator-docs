@@ -1,4 +1,4 @@
----
+https://ro.blox.com/Ebh5?af_dp=roblox%3A%2F%2Fnavigation%2Fgame_details%3FgameId%3D9481273191&af_web_dp=https%3A%2F%2Fwww.roblox.com%2Fgames%2F73927923390404---
 title: Get started on Roblox
 description: Learn how to get started quickly on Roblox
 hideInPageNavigation: true
